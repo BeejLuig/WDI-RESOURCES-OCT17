@@ -47,6 +47,7 @@ List of resources shared in and out of class during WDI
 ### HTML / CSS
   - [Kahn Academy - Making Webpages Intro](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro)
   - [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+  - [CodeAcademy - HTML/CSS Catalog](https://www.codecademy.com/catalog/language/html-css)
   
 ### JavaScript
 
