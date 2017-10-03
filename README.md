@@ -3,14 +3,14 @@ List of resources shared in and out of class during WDI
 
 ## Table of Contents
 
-- [Articles](#articles)
-- [Books](#books)
-- [Podcasts](#podcasts)
-- [Websites](#websites)
+- [Articles](#1.-articles)
+- [Books](#2.-books)
+- [Podcasts](#3.-podcasts)
+- [Websites](#4.-websites)
 
 ---
 
-## Articles
+## 1. Articles
 
 ### HTML / CSS
 
@@ -20,7 +20,7 @@ List of resources shared in and out of class during WDI
 
 ### Other
 
-## Books
+## 2. Books
 
 ### HTML / CSS
 
@@ -30,7 +30,7 @@ List of resources shared in and out of class during WDI
 
 ### Other
 
-## Podcasts
+## 3. Podcasts
 
 ### HTML / CSS
 
@@ -40,7 +40,7 @@ List of resources shared in and out of class during WDI
 
 ### Other
 
-## Websites
+## 4. Websites
 
 ### HTML / CSS
 
