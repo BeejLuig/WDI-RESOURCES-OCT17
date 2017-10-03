@@ -4,6 +4,9 @@ List of resources shared in and out of class during WDI
 ## Table of Contents
 
 - [Articles](#articles)
+- [Books](#books)
+- [Podcasts](#podcasts)
+- [Websites](#websites)
 
 ---
 
