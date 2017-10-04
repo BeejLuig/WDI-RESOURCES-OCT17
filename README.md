@@ -33,14 +33,11 @@ List of resources shared in and out of class during WDI
 ### Other
 
 ## 3. Podcasts
-
-### HTML / CSS
-
-### JavaScript
-
-### Ruby
-
-### Other
+- [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/)
+- [CodeNewbie](https://www.codenewbie.org/podcast)
+- [Complete Developer Podcast](https://itunes.apple.com/us/podcast/complete-developer-podcast/id1039210992?mt=2)
+- [HanselMinutes](https://www.hanselminutes.com/)
+- [The Bike Shed](http://bikeshed.fm/)
 
 ## 4. Tutorials
 
