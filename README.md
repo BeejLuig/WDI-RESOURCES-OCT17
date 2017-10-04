@@ -69,6 +69,7 @@ List of resources shared in and out of class during WDI
   - [CSS Tricks](https://css-tricks.com/) - Online publication
   - [W3 Schools](https://www.w3schools.com/) - Tutorials/Reference
   - [HTML Validator](https://validator.w3.org/)
+  - [Can I Use](http://caniuse.com/)
 
 ### JavaScript
 
