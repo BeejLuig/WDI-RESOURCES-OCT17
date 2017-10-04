@@ -24,6 +24,8 @@ List of resources shared in and out of class during WDI
 
 ### Other
 
+---
+
 ## 2. Books
 
 ### HTML / CSS
@@ -34,12 +36,16 @@ List of resources shared in and out of class during WDI
 
 ### Other
 
+---
+
 ## 3. Podcasts
 - [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/)
 - [CodeNewbie](https://www.codenewbie.org/podcast)
 - [Complete Developer Podcast](https://itunes.apple.com/us/podcast/complete-developer-podcast/id1039210992?mt=2)
 - [HanselMinutes](https://www.hanselminutes.com/)
 - [The Bike Shed](http://bikeshed.fm/)
+
+--- 
 
 ## 4. Tutorials
 
@@ -53,6 +59,8 @@ List of resources shared in and out of class during WDI
 ### Ruby
 
 ### Other
+
+---
 
 ## 5. Websites
 
@@ -69,8 +77,10 @@ List of resources shared in and out of class during WDI
 ### Other
 
  - [CodePen](https://codepen.io/)
- 
- ## 6. Reference
+
+---
+
+## 6. Reference
 
 ### HTML / CSS
 
