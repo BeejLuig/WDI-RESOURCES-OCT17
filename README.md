@@ -59,6 +59,7 @@ List of resources shared in and out of class during WDI
 ### Ruby
 
 ### Other
+- [try.github](https://try.github.io)
 
 ---
 
@@ -70,6 +71,7 @@ List of resources shared in and out of class during WDI
   - [W3 Schools](https://www.w3schools.com/) - Tutorials/Reference
   - [HTML Validator](https://validator.w3.org/)
   - [Can I Use](http://caniuse.com/)
+  - [GitHub Guides](https://guides.github.com/)
 
 ### JavaScript
 
@@ -94,3 +96,4 @@ List of resources shared in and out of class during WDI
 ### Ruby
 
 ### Other
+- [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
