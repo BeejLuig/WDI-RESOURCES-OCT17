@@ -45,7 +45,7 @@ List of resources shared in and out of class during WDI
 - [HanselMinutes](https://www.hanselminutes.com/)
 - [The Bike Shed](http://bikeshed.fm/)
 
---- 
+---
 
 ## 4. Tutorials
 
@@ -53,7 +53,7 @@ List of resources shared in and out of class during WDI
   - [Kahn Academy - Making Webpages Intro](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro)
   - [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   - [CodeAcademy - HTML/CSS Catalog](https://www.codecademy.com/catalog/language/html-css)
-  
+
 ### JavaScript
 
 ### Ruby
@@ -83,7 +83,29 @@ List of resources shared in and out of class during WDI
 
 ---
 
-## 6. Reference
+## 6. Weekly Newsletters / Tips / Tricks
+Navigate around the site to find the email signup form.
+
+### Jobs
+
+  -[Dice - Insights Newsletter](http://insights.dice.com/)
+
+### HTML / CSS
+
+  - [CSS Tricks](https://css-tricks.com/newsletters/)
+  - [Alligator.io](https://alligatorio.curated.co/)
+  - [Web Dev Reading List](https://wdrl.info/)
+
+### JavaScript
+
+  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  - [ReactDOM](https://reactdom.com/)
+
+### Ruby
+
+---
+
+## 7. Reference
 
 ### HTML / CSS
 
