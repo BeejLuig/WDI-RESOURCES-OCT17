@@ -17,7 +17,7 @@ List of resources shared in and out of class during WDI
 ## 1. Articles
 
 ### HTML / CSS
-
+- [Using order property in CSS grid](https://www.sitepoint.com/order-align-items-grid-layout/)
 ### JavaScript
 
 ### Ruby
@@ -31,7 +31,6 @@ List of resources shared in and out of class during WDI
 ### HTML / CSS
 - [HTML and CSS Book](http://www.htmlandcssbook.com/)
 ### JavaScript
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Ruby
 
