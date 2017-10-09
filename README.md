@@ -89,6 +89,7 @@ Navigate around the site to find the email signup form.
 ### Jobs
 
   - [Dice - Insights Newsletter](http://insights.dice.com/)
+  - [Tech Ladies](https://www.hiretechladies.com/join)
 
 ### HTML / CSS
 
