@@ -31,6 +31,7 @@ List of resources shared in and out of class during WDI
 ### HTML / CSS
 - [HTML and CSS Book](http://www.htmlandcssbook.com/)
 ### JavaScript
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Ruby
 
