@@ -8,7 +8,7 @@ List of resources shared in and out of class during WDI
 - [Articles](#1-articles)
 - [Books](#2-books)
 - [Podcasts](#3-podcasts)
-- [Websites](#4-tutorials)
+- [Tutorials](#4-tutorials)
 - [Websites](#5-websites)
 - [Reference](#6-reference)
 
