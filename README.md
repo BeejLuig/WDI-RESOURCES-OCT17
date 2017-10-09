@@ -31,7 +31,6 @@ List of resources shared in and out of class during WDI
 ### HTML / CSS
 - [HTML and CSS Book](http://www.htmlandcssbook.com/)
 ### JavaScript
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Ruby
 
@@ -90,6 +89,7 @@ Navigate around the site to find the email signup form.
 ### Jobs
 
   - [Dice - Insights Newsletter](http://insights.dice.com/)
+  - [Tech Ladies](https://www.hiretechladies.com/join)
 
 ### HTML / CSS
 
