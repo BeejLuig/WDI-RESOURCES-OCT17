@@ -8,9 +8,11 @@ List of resources shared in and out of class during WDI
 - [Articles](#1-articles)
 - [Books](#2-books)
 - [Podcasts](#3-podcasts)
-- [Websites](#4-tutorials)
+- [Tutorials](#4-tutorials)
 - [Websites](#5-websites)
-- [Reference](#6-reference)
+- [Weekly Newsletters / Tips / Tricks](#6-weekly-newsletters--tips--tricks)
+- [Reference](#7-reference)
+- [Lecture Links](#8-lecture-links)
 
 ---
 
@@ -29,11 +31,11 @@ List of resources shared in and out of class during WDI
 ## 2. Books
 
 ### HTML / CSS
-- [HTML and CSS Book](http://www.htmlandcssbook.com/)
+
 ### JavaScript
 
 ### Ruby
-
+- [RUBY] (https://www.codecademy.com/learn/learn-ruby)
 ### Other
 
 ---
@@ -119,3 +121,7 @@ Navigate around the site to find the email signup form.
 
 ### Other
 - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+
+## 8. Lecture Links
+
+- [REPL.it - JS Basics](https://repl.it/MUbr/latest)
