@@ -35,7 +35,7 @@ List of resources shared in and out of class during WDI
 ### JavaScript
 
 ### Ruby
-- [RUBY] (https://www.codecademy.com/learn/learn-ruby)
+- [RUBY-BOOK] (https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 ### Other
 
 ---
@@ -126,7 +126,3 @@ Navigate around the site to find the email signup form.
 ## 8. Lecture Links
 
 - [REPL.it - JS Basics](https://repl.it/MUbr/latest)
-- [REPL.it - JS Operators](https://repl.it/MVJo/0)
-- [REPL.it - JS Basic Functions](https://repl.it/MVNO/2)
-- [REPL.it - JS Arrays and Objects](https://repl.it/MV5I/1)
-- [REPL.it - JS Control Flow](https://repl.it/MVUD/4)
