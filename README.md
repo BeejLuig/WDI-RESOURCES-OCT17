@@ -117,7 +117,10 @@ Navigate around the site to find the email signup form.
   - [W3Schools - CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ### JavaScript
-
+  - [Expressions and Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+  - [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+  - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+  - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 ### Ruby
 
 ### Other
