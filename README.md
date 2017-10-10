@@ -154,6 +154,9 @@ Navigate around the site to find the email signup form.
 - [REPL.it - JS Control Flow](https://repl.it/MVUD/4)
 - [REPL.it - JS Nested Arrays / Objects](https://repl.it/MXmb/1)
 - [REPL.it - JS Working with Objects](https://repl.it/MY8W/4)
+- [REPL.it - JS String Methods](https://repl.it/MZ6a/1)
+- [REPL.it - JS Array Methods](https://repl.it/M0DI/1)
+- [REPL.it - Array.prototype.reduce example](https://repl.it/M0C1/0)
 
 ### Ruby
 
