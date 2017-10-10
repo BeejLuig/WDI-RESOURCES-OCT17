@@ -35,7 +35,7 @@ List of resources shared in and out of class during WDI
 ### JavaScript
 
 ### Ruby
-- [RUBY] (https://www.codecademy.com/learn/learn-ruby)
+- [RUBY-BOOK] (https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 ### Other
 
 ---
@@ -140,3 +140,4 @@ Navigate around the site to find the email signup form.
 ### Ruby
 
 ### Other
+
