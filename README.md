@@ -35,7 +35,7 @@ List of resources shared in and out of class during WDI
 ### JavaScript
 
 ### Ruby
-- [RUBY-BOOK] (https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+- [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 ### Other
 
 ---
