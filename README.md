@@ -1,8 +1,3 @@
-# WDI-RESOURCES-OCT17
-List of resources shared in and out of class during WDI
-
----
-
 ## Table of Contents
 
 - [Articles](#1-articles)
@@ -37,12 +32,15 @@ List of resources shared in and out of class during WDI
 ### JavaScript
 
 ### Ruby
+
 - [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+
 ### Other
 
 ---
 
 ## 3. Podcasts
+
 - [Giant Robots Smashing into Other Giant Robots](http://giantrobots.fm/)
 - [CodeNewbie](https://www.codenewbie.org/podcast)
 - [Complete Developer Podcast](https://itunes.apple.com/us/podcast/complete-developer-podcast/id1039210992?mt=2)
@@ -54,6 +52,7 @@ List of resources shared in and out of class during WDI
 ## 4. Tutorials
 
 ### HTML / CSS
+
   - [Kahn Academy - Making Webpages Intro](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro)
   - [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   - [CodeAcademy - HTML/CSS Catalog](https://www.codecademy.com/catalog/language/html-css)
@@ -63,6 +62,7 @@ List of resources shared in and out of class during WDI
 ### Ruby
 
 ### Other
+
 - [try.github](https://try.github.io)
 
 ---
@@ -88,6 +88,7 @@ List of resources shared in and out of class during WDI
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
+
 Navigate around the site to find the email signup form.
 
 ### Jobs
@@ -119,13 +120,16 @@ Navigate around the site to find the email signup form.
   - [W3Schools - CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ### JavaScript
+
   - [Expressions and Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
   - [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
   - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
   - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+  
 ### Ruby
 
 ### Other
+
 - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 ## 8. Lecture Links
@@ -133,6 +137,7 @@ Navigate around the site to find the email signup form.
 ### HTML / CSS
 
 ### JavaScript
+
 - [REPL.it - JS Basics](https://repl.it/MUbr/latest)
 - [REPL.it - JS Operators](https://repl.it/MVJo/0)
 - [REPL.it - JS Basic Functions](https://repl.it/MVNO/2)
@@ -143,3 +148,6 @@ Navigate around the site to find the email signup form.
 
 ### Other
 
+---
+
+<small><em style="font-family: cursive;">fin</em></small>
