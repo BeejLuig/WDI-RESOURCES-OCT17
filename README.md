@@ -136,6 +136,13 @@ Navigate around the site to find the email signup form.
 
 ### HTML / CSS
 
+- [Codepen - Basic Contact Page Example](https://codepen.io/BeejLuig/pen/wrpYmp)
+- [Codepen - Custom Row/Column System with Media Queries Example](https://codepen.io/BeejLuig/pen/YrEdKB)
+- [Codepen - Basic CSS Animation Example](https://codepen.io/BeejLuig/pen/JrOZNd)
+- [Codepen - Anchor Tag Selectors Example](https://codepen.io/BeejLuig/pen/WZXzzb)
+- [Codepen - Selectors Practice](https://codepen.io/BeejLuig/pen/KXyXBE)
+- [Codepen - Fixed Navbar with Hamburger Menu Example](https://codepen.io/BeejLuig/pen/jGGRLa)
+
 ### JavaScript
 
 - [REPL.it - JS Basics](https://repl.it/MUbr/latest)
@@ -143,6 +150,8 @@ Navigate around the site to find the email signup form.
 - [REPL.it - JS Basic Functions](https://repl.it/MVNO/2)
 - [REPL.it - JS Arrays and Objects](https://repl.it/MV5I/1)
 - [REPL.it - JS Control Flow](https://repl.it/MVUD/4)
+- [REPL.it - JS Nested Arrays / Objects](https://repl.it/MXmb/1)
+- [REPL.it - JS Working with Objects](https://repl.it/MY8W/4)
 
 ### Ruby
 
