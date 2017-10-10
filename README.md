@@ -31,6 +31,8 @@
 
 ### JavaScript
 
+- [JavaScript, The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+
 ### Ruby
 
 - [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
