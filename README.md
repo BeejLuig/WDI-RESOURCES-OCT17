@@ -85,6 +85,7 @@
 
 ### Other
 
+ - [Code Cards Game](bjcantlupe.com/code-cards-game/)
  - [CodePen](https://codepen.io/)
 
 ---
