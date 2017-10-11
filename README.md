@@ -60,6 +60,7 @@
   - [CodeAcademy - HTML/CSS Catalog](https://www.codecademy.com/catalog/language/html-css)
 
 ### JavaScript
+- [JavaScript 30](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials
 
 ### Ruby
 
@@ -128,6 +129,8 @@ Navigate around the site to find the email signup form.
   - [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
   - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
   - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+  - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+  - [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
   
 ### Ruby
 
@@ -159,6 +162,11 @@ Navigate around the site to find the email signup form.
 - [REPL.it - JS String Methods](https://repl.it/MZ6a/1)
 - [REPL.it - JS Array Methods](https://repl.it/M0DI/1)
 - [REPL.it - Array.prototype.reduce example](https://repl.it/M0C1/0)
+- [REPL.it - Array.prototype.map example](https://repl.it/M2c7/2)
+- [Codepen - addEventListener](https://codepen.io/BeejLuig/pen/BwVMra?editors=1010)
+- [Codepen - addEventListener to Multiple Targets](https://codepen.io/BeejLuig/pen/eGKXmV?editors=1010)
+- [Codepen - addEventListener Todo List](https://codepen.io/BeejLuig/pen/VMdRdL?editors=1010)
+- [Codepen - DOM Treasure Hunt - Solutions](https://codepen.io/BeejLuig/pen/ZXRgvz?editors=1010)
 
 ### Ruby
 
