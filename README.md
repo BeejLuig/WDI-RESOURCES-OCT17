@@ -134,6 +134,7 @@ Navigate around the site to find the email signup form.
 ### Other
 
 - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+- [Git Cheats Sheet from GitHub](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 
 ## 8. Lecture Links
 
