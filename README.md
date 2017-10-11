@@ -60,6 +60,7 @@
   - [CodeAcademy - HTML/CSS Catalog](https://www.codecademy.com/catalog/language/html-css)
 
 ### JavaScript
+- [JavaScript 30](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials
 
 ### Ruby
 
