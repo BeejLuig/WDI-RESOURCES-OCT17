@@ -16,6 +16,7 @@
 ### HTML / CSS
 
 - [Using order property in CSS grid](https://www.sitepoint.com/order-align-items-grid-layout/)
+- [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag))
 
 ### JavaScript
 
@@ -32,6 +33,8 @@
 ### JavaScript
 
 - [JavaScript, The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+- [Speaking JS](http://speakingjs.com/es5/index.html)
+- [JavaScript and jQuery: Interactive Frontend](https://digitalbookocean.com/product/javascript-and-jquery-interactive-front-end-web-development-ebook-only/)
 
 ### Ruby
 
@@ -79,6 +82,7 @@
   - [HTML Validator](https://validator.w3.org/)
   - [Can I Use](http://caniuse.com/)
   - [GitHub Guides](https://guides.github.com/)
+  - [Learn CSS Grid](http://learncssgrid.com/)
 
 ### JavaScript
 
@@ -88,6 +92,7 @@
 
  - [Code Cards Game](bjcantlupe.com/code-cards-game/)
  - [CodePen](https://codepen.io/)
+ - [Creative Commons](https://creativecommons.org/)
 
 ---
 
@@ -131,6 +136,8 @@ Navigate around the site to find the email signup form.
   - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
   - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
   - [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+  - [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+  - [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
   
 ### Ruby
 
@@ -167,6 +174,10 @@ Navigate around the site to find the email signup form.
 - [Codepen - addEventListener to Multiple Targets](https://codepen.io/BeejLuig/pen/eGKXmV?editors=1010)
 - [Codepen - addEventListener Todo List](https://codepen.io/BeejLuig/pen/VMdRdL?editors=1010)
 - [Codepen - DOM Treasure Hunt - Solutions](https://codepen.io/BeejLuig/pen/ZXRgvz?editors=1010)
+- [REPL.it - Callback functions](https://repl.it/M4VW/4)
+- [Codepn - Form Validation Example](https://codepen.io/BeejLuig/pen/zELWbe?editors=0010)
+- [Codepen - Up/Down Workshop - Solutions](https://codepen.io/BeejLuig/pen/mBjLdO)
+- [REPL.it - Date and setInterval](https://repl.it/MaqB)
 
 ### Ruby
 
