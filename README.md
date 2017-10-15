@@ -24,6 +24,8 @@
 
 ### Other
 
+- [A Simple Introduction to Markdown](https://medium.com/@kaip/a-simple-introduction-to-markdown-cbed09ff7714)
+
 ---
 
 ## 2. Books
