@@ -20,6 +20,8 @@
 
 ### JavaScript
 
+- [Class Patterns](https://javascript.info/class-patterns)
+
 ### Ruby
 
 ### Other
@@ -66,6 +68,9 @@
 
 ### JavaScript
 - [JavaScript 30](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials
+- [Why Does 3 + True = 4?](https://tech.io/playgrounds/6349/javascript-why-does-3-true-4-and-other-quirks)
+- [JavaScript Arrays](https://tech.io/playgrounds/6181/javascript-arrays---tips-tricks-and-examples)
+- [Features of ES6/7/8](https://tech.io/playgrounds/3629/5-features-of-es-6-7-8-that-supercharge-your-javascript)
 
 ### Ruby
 
@@ -88,6 +93,8 @@
 
 ### JavaScript
 
+  - [Tech.io](https://tech.io/explore)
+  
 ### Ruby
 
 ### Other
@@ -140,6 +147,11 @@ Navigate around the site to find the email signup form.
   - [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
   - [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
   - [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+  - [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+  - [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+  - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+  - [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+  - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
   
 ### Ruby
 
@@ -180,6 +192,11 @@ Navigate around the site to find the email signup form.
 - [Codepn - Form Validation Example](https://codepen.io/BeejLuig/pen/zELWbe?editors=0010)
 - [Codepen - Up/Down Workshop - Solutions](https://codepen.io/BeejLuig/pen/mBjLdO)
 - [REPL.it - Date and setInterval](https://repl.it/MaqB)
+- [REPL.it - Address Class Example](https://repl.it/Mhwo)
+- [REPL.it - Greeting Class Example](https://repl.it/MhoX/0) 
+- [REPL.it - Object Namespace Example](https://repl.it/MhcP/0)
+- [REPL.it - ES6 Classes / Inheritance](https://repl.it/MiMz/19)
+- [Codepen - ES6 Robot Class](https://codepen.io/BeejLuig/pen/zEMKGj?editors=0010)
 
 ### Ruby
 
