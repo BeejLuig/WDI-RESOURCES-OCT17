@@ -197,6 +197,7 @@ Navigate around the site to find the email signup form.
 - [REPL.it - Object Namespace Example](https://repl.it/MhcP/0)
 - [REPL.it - ES6 Classes / Inheritance](https://repl.it/MiMz/19)
 - [Codepen - ES6 Robot Class](https://codepen.io/BeejLuig/pen/zEMKGj?editors=0010)
+- [REPL.it - OO JS Mini Challenges - Solutions](https://repl.it/MjD6/7)
 
 ### Ruby
 
