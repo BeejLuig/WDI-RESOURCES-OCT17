@@ -21,6 +21,8 @@
 ### JavaScript
 
 - [Class Patterns](https://javascript.info/class-patterns)
+- [ES6 Classes In Depth](https://ponyfoo.com/articles/es6-classes-in-depth)
+- [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/#creating-a-module)
 
 ### Ruby
 
@@ -102,7 +104,10 @@
  - [Code Cards Game](bjcantlupe.com/code-cards-game/)
  - [CodePen](https://codepen.io/)
  - [Creative Commons](https://creativecommons.org/)
-
+ - [What Runs](https://www.whatruns.com/)
+ - [Postman](https://www.getpostman.com/)
+ - [Open Data Philly](https://www.opendataphilly.org/)
+ - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
@@ -152,6 +157,13 @@ Navigate around the site to find the email signup form.
   - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
   - [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
   - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+  - [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement)
+  - [Input Element - Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)
+  - [Soundcloud - HTML5 Widget](https://developers.soundcloud.com/docs/api/html5-widget)
+  - [Soundcloud - JavaScript SDK](https://developers.soundcloud.com/docs/api/sdks#http)
+  - [Soundcloud - Playing Sounds](https://developers.soundcloud.com/docs/api/guide#playing)
+  - [Soundcloud - Searching Tracks](https://developers.soundcloud.com/docs/api/reference#tracks)
+  - [ES6 Features](http://es6-features.org/#ExpressionBodies)
   
 ### Ruby
 
@@ -159,6 +171,8 @@ Navigate around the site to find the email signup form.
 
 - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [Git Cheats Sheet from GitHub](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
+- [Public API List](https://github.com/toddmotto/public-apis)
+- [Itunes API Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/#searchexamples)
 
 ## 8. Lecture Links
 
@@ -198,6 +212,13 @@ Navigate around the site to find the email signup form.
 - [REPL.it - ES6 Classes / Inheritance](https://repl.it/MiMz/19)
 - [Codepen - ES6 Robot Class](https://codepen.io/BeejLuig/pen/zEMKGj?editors=0010)
 - [REPL.it - OO JS Mini Challenges - Solutions](https://repl.it/MjD6/7)
+- [Codepen - Heading Object Example](https://codepen.io/BeejLuig/pen/GMwmRW?editors=1010)
+- [REPL.it - Closures and Modules](https://repl.it/Mlwx/1)
+- [Codepen - iTunes API Calls w/ Fetch](https://codepen.io/BeejLuig/pen/WZLBzz?editors=0010)
+- [Codepen - AJAX Fetch Primer](https://codepen.io/BeejLuig/pen/gRNNoR?editors=0010)
+- [Codepen - iTunes API Search w/ Mustache Template](https://codepen.io/BeejLuig/pen/bRXayP?editors=1010)
+- [REPL.it - Weather API Data Playground](https://repl.it/J5oA)
+- [Codepen - iTunes API Calls w/ Fetch - iTunes Namespace](https://codepen.io/BeejLuig/pen/ZXwVwX?editors=0010)
 
 ### Ruby
 
