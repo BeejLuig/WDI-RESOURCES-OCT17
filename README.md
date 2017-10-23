@@ -8,6 +8,7 @@
 - [Weekly Newsletters / Tips / Tricks](#6-weekly-newsletters--tips--tricks)
 - [Reference](#7-reference)
 - [Lecture Links](#8-lecture-links)
+- [Philly Community Groups/Organizations](#9-Philadelphia-Area-Tech-Community-Groups--Organizations)
 
 ---
 
@@ -242,6 +243,13 @@ Navigate around the site to find the email signup form.
 
 ### Other
 
+## 9. Philadelphia Area Tech Community Groups / Organizations
+
+- [Girl Develop It Philly](https://www.girldevelopit.com/chapters/philadelphia)
+- [Tech In Motion Philly](http://www.techinmotionevents.com/)
+- [CodeNewbie Philly](https://www.meetup.com/CodeNewbie-Philly/)
+- [Data Science Philly](https://www.meetup.com/DataPhilly/)
+- [Ministry of Testing Philly](https://www.meetup.com/ministry-of-testing-philadelphia/)
 ---
 
 <small><em style="font-family: cursive;">fin</em></small>
