@@ -17,6 +17,7 @@
 
 - [Using order property in CSS grid](https://www.sitepoint.com/order-align-items-grid-layout/)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag))
+- [Will We Be Flattening Our HTML & CSS Grids?](https://css-tricks.com/will-flattening-html-css-grids/)
 
 ### JavaScript
 
@@ -35,6 +36,8 @@
 ## 2. Books
 
 ### HTML / CSS
+
+- [Sass For Web Designers](https://abookapart.com/products/sass-for-web-designers)
 
 ### JavaScript
 
@@ -67,6 +70,7 @@
   - [Kahn Academy - Making Webpages Intro](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro)
   - [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   - [CodeAcademy - HTML/CSS Catalog](https://www.codecademy.com/catalog/language/html-css)
+  - [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
 ### JavaScript
 - [JavaScript 30](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials
@@ -92,10 +96,21 @@
   - [Can I Use](http://caniuse.com/)
   - [GitHub Guides](https://guides.github.com/)
   - [Learn CSS Grid](http://learncssgrid.com/)
+  - [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+  - [Sass](http://sass-lang.com/install)
+  - [Scout](http://scout-app.io/)
+  - [Sassmeister](https://www.sassmeister.com/)
+  - [Compass](http://compass-style.org/reference/compass/)
+  - [Scut](http://davidtheclark.github.io/scut/)
+  - [Bourbon](http://bourbon.io/)
+  - [Grid By Example](https://gridbyexample.com/)
+  - [CSS Grid Garden](http://cssgridgarden.com/)
+  - [CSS Grid in Production](https://cssgrid.design/)
 
 ### JavaScript
 
   - [Tech.io](https://tech.io/explore)
+  - [Scriptular](http://scriptular.com/)
   
 ### Ruby
 
@@ -164,6 +179,7 @@ Navigate around the site to find the email signup form.
   - [Soundcloud - Playing Sounds](https://developers.soundcloud.com/docs/api/guide#playing)
   - [Soundcloud - Searching Tracks](https://developers.soundcloud.com/docs/api/reference#tracks)
   - [ES6 Features](http://es6-features.org/#ExpressionBodies)
+  - [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
   
 ### Ruby
 
@@ -219,6 +235,8 @@ Navigate around the site to find the email signup form.
 - [Codepen - iTunes API Search w/ Mustache Template](https://codepen.io/BeejLuig/pen/bRXayP?editors=1010)
 - [REPL.it - Weather API Data Playground](https://repl.it/J5oA)
 - [Codepen - iTunes API Calls w/ Fetch - iTunes Namespace](https://codepen.io/BeejLuig/pen/ZXwVwX?editors=0010)
+- [Codepen - SCSS Button Example](https://codepen.io/BeejLuig/pen/ZXNKVa?editors=0100)
+- [Codepen - CSS Grid Example](https://codepen.io/BeejLuig/pen/EwzbVO?editors=1100)
 
 ### Ruby
 
