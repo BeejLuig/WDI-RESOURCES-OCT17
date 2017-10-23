@@ -8,7 +8,7 @@
 - [Weekly Newsletters / Tips / Tricks](#6-weekly-newsletters--tips--tricks)
 - [Reference](#7-reference)
 - [Lecture Links](#8-lecture-links)
-- [Philly Community Groups/Organizations](#9-Philadelphia-Area-Tech-Community-Groups--Organizations)
+- [Philly Community Groups/Organizations](#9-philadelphia-area-tech-community-groups--organizations)
 
 ---
 
