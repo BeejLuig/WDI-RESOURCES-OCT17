@@ -8,7 +8,7 @@
 - [Weekly Newsletters / Tips / Tricks](#6-weekly-newsletters--tips--tricks)
 - [Reference](#7-reference)
 - [Lecture Links](#8-lecture-links)
-- [Philly Community Groups/Organizations](#9-Philadelphia-Area-Tech-Community-Groups--Organizations)
+- [Philly Community Groups/Organizations](#9-philadelphia-area-tech-community-groups--organizations)
 
 ---
 
@@ -31,6 +31,9 @@
 ### Other
 
 - [A Simple Introduction to Markdown](https://medium.com/@kaip/a-simple-introduction-to-markdown-cbed09ff7714)
+- [Medium: Calculating Read Time](https://blog.medium.com/read-time-and-you-bc2048ab620c)
+- [Bastards Book: If/Else](http://ruby.bastardsbook.com/chapters/ifelse/)
+- [Bastards Book: Loops](http://ruby.bastardsbook.com/chapters/loops/)
 
 ---
 
@@ -49,6 +52,10 @@
 ### Ruby
 
 - [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+- [The Well Grounded Rubyist](https://manning-content.s3.amazonaws.com/download/3/93fa755-6d88-4296-9d1c-3e40cf96507c/TWGR2E_CH11.pdf)
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+- [Poignant Guide](http://www.rubyinside.com/media/poignant-guide.pdf)
 
 ### Other
 
@@ -80,6 +87,9 @@
 - [Features of ES6/7/8](https://tech.io/playgrounds/3629/5-features-of-es-6-7-8-that-supercharge-your-javascript)
 
 ### Ruby
+
+- [CodeAcademy - Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 
 ### Other
 
@@ -114,7 +124,10 @@
   - [Scriptular](http://scriptular.com/)
   
 ### Ruby
-
+  
+  - [Ruby Homepage](https://www.ruby-lang.org/en/)
+  - [Rubocop Linter for Atom](https://atom.io/packages/linter-rubocop)
+  
 ### Other
 
  - [Code Cards Game](bjcantlupe.com/code-cards-game/)
@@ -124,6 +137,7 @@
  - [Postman](https://www.getpostman.com/)
  - [Open Data Philly](https://www.opendataphilly.org/)
  - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+ - [Atom Linter](https://atom.io/packages/linter)
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
@@ -160,29 +174,33 @@ Navigate around the site to find the email signup form.
 
 ### JavaScript
 
-  - [Expressions and Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-  - [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
-  - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-  - [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
-  - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-  - [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-  - [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
-  - [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
-  - [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-  - [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
-  - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
-  - [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
-  - [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-  - [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement)
-  - [Input Element - Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)
-  - [Soundcloud - HTML5 Widget](https://developers.soundcloud.com/docs/api/html5-widget)
-  - [Soundcloud - JavaScript SDK](https://developers.soundcloud.com/docs/api/sdks#http)
-  - [Soundcloud - Playing Sounds](https://developers.soundcloud.com/docs/api/guide#playing)
-  - [Soundcloud - Searching Tracks](https://developers.soundcloud.com/docs/api/reference#tracks)
-  - [ES6 Features](http://es6-features.org/#ExpressionBodies)
-  - [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [Expressions and Operations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+- [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+- [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+- [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+- [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement)
+- [Input Element - Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)
+- [Soundcloud - HTML5 Widget](https://developers.soundcloud.com/docs/api/html5-widget)
+- [Soundcloud - JavaScript SDK](https://developers.soundcloud.com/docs/api/sdks#http)
+- [Soundcloud - Playing Sounds](https://developers.soundcloud.com/docs/api/guide#playing)
+- [Soundcloud - Searching Tracks](https://developers.soundcloud.com/docs/api/reference#tracks)
+- [ES6 Features](http://es6-features.org/#ExpressionBodies)
+- [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
   
 ### Ruby
+
+- [Ruby Docs](http://ruby-doc.org/core-2.4.2/)
+- [Array](https://ruby-doc.org/core-2.2.0/Array.html)
+- [Hash](https://ruby-doc.org/core-2.2.0/Hash.html)
 
 ### Other
 
@@ -240,6 +258,16 @@ Navigate around the site to find the email signup form.
 - [Codepen - CSS Grid Example](https://codepen.io/BeejLuig/pen/EwzbVO?editors=1100)
 
 ### Ruby
+
+- [Basic Ruby Workshop - Solutions](https://repl.it/N2qD/0)
+- [Basic Ruby - Solutions](https://repl.it/N3FI/1)
+- [to_camelcase](https://repl.it/N5GU/0)
+- [spooky_case](https://repl.it/N5fi/0)
+- [snake_to_camel](https://repl.it/N5gb/0)
+- [Intermediate Ruby Functions](https://repl.it/N6NV/2)
+- [Ruby Classes - Incrementable/Counter/Timer](https://repl.it/N6s5/11)
+- [Monster Classes](https://repl.it/N7DF/7)
+- [ShoppingList Class](https://repl.it/N7Kb/3)
 
 ### Other
 
