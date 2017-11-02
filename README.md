@@ -94,6 +94,7 @@
 ### Other
 
 - [try.github](https://try.github.io)
+- [Regex101 - Interactive tool](https://regex101.com/)
 
 ---
 
@@ -117,6 +118,7 @@
   - [Grid By Example](https://gridbyexample.com/)
   - [CSS Grid Garden](http://cssgridgarden.com/)
   - [CSS Grid in Production](https://cssgrid.design/)
+  - [How to Center in CSS (Interactive Tool)](http://howtocenterincss.com/)
 
 ### JavaScript
 
