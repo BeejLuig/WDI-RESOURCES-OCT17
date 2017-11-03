@@ -34,6 +34,7 @@
 - [Medium: Calculating Read Time](https://blog.medium.com/read-time-and-you-bc2048ab620c)
 - [Bastards Book: If/Else](http://ruby.bastardsbook.com/chapters/ifelse/)
 - [Bastards Book: Loops](http://ruby.bastardsbook.com/chapters/loops/)
+- [Alias Git Commands](https://githowto.com/aliases)
 
 ---
 
@@ -90,6 +91,7 @@
 
 - [CodeAcademy - Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
+- [Web Guesser - Sinatra Tutorial](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
 
 ### Other
 
@@ -129,6 +131,12 @@
   
   - [Ruby Homepage](https://www.ruby-lang.org/en/)
   - [Rubocop Linter for Atom](https://atom.io/packages/linter-rubocop)
+  - [Better Specs](http://www.betterspecs.org/)
+  - [Factory Bot](https://github.com/thoughtbot/factory_bot)
+  - [Faker](https://github.com/stympy/faker)
+  - [Sinatra](http://www.sinatrarb.com/)
+  - [Pry](https://github.com/pry/pry)
+  - [Capybara](https://github.com/teamcapybara/capybara)
   
 ### Other
 
@@ -140,6 +148,7 @@
  - [Open Data Philly](https://www.opendataphilly.org/)
  - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
  - [Atom Linter](https://atom.io/packages/linter)
+ - [Agile in a Nutshell](http://www.agilenutshell.com/user_stories)
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
@@ -203,6 +212,11 @@ Navigate around the site to find the email signup form.
 - [Ruby Docs](http://ruby-doc.org/core-2.4.2/)
 - [Array](https://ruby-doc.org/core-2.2.0/Array.html)
 - [Hash](https://ruby-doc.org/core-2.2.0/Hash.html)
+- [RSpec](http://rspec.info/)
+- [Relish - RSpec Reference](https://relishapp.com/rspec)
+- [RSpec Matchers](http://rspec.info/documentation/3.7/rspec-expectations/#Built-in_matchers)
+- [Factory Bot - Custom Construction](https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md#custom-construction)
+- [Sinatra Testing with RSpec](http://recipes.sinatrarb.com/p/testing/rspec)
 
 ### Other
 
@@ -210,6 +224,7 @@ Navigate around the site to find the email signup form.
 - [Git Cheats Sheet from GitHub](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [Public API List](https://github.com/toddmotto/public-apis)
 - [Itunes API Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/#searchexamples)
+- [Atom Keyboard Shortcuts](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)
 
 ## 8. Lecture Links
 
@@ -270,6 +285,8 @@ Navigate around the site to find the email signup form.
 - [Ruby Classes - Incrementable/Counter/Timer](https://repl.it/N6s5/11)
 - [Monster Classes](https://repl.it/N7DF/7)
 - [ShoppingList Class](https://repl.it/N7Kb/3)
+- [Faking Data](https://github.com/BeejLuig/fake_data)
+- [Sinatra Template](https://github.com/BeejLuig/sinatra_template)
 
 ### Other
 
