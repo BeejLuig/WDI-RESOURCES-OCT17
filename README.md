@@ -35,6 +35,7 @@
 - [Bastards Book: If/Else](http://ruby.bastardsbook.com/chapters/ifelse/)
 - [Bastards Book: Loops](http://ruby.bastardsbook.com/chapters/loops/)
 - [Alias Git Commands](https://githowto.com/aliases)
+- [Base.cs](https://medium.com/basecs) - Weekly articles exploring the very basics of computer science
 
 ---
 
@@ -69,6 +70,7 @@
 - [Complete Developer Podcast](https://itunes.apple.com/us/podcast/complete-developer-podcast/id1039210992?mt=2)
 - [HanselMinutes](https://www.hanselminutes.com/)
 - [The Bike Shed](http://bikeshed.fm/)
+- [Base.cs](https://www.codenewbie.org/basecs)
 
 ---
 
