@@ -151,6 +151,7 @@
  - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
  - [Atom Linter](https://atom.io/packages/linter)
  - [Agile in a Nutshell](http://www.agilenutshell.com/user_stories)
+ - [Agile Uprising](https://coalition.agileuprising.com/)
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
