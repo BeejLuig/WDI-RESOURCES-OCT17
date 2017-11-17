@@ -28,6 +28,8 @@
 
 ### Ruby
 
+- [Authentication in Rails with Bcrypt](https://gist.github.com/thebucknerlife/10090014)
+
 ### Other
 
 - [A Simple Introduction to Markdown](https://medium.com/@kaip/a-simple-introduction-to-markdown-cbed09ff7714)
@@ -36,6 +38,8 @@
 - [Bastards Book: Loops](http://ruby.bastardsbook.com/chapters/loops/)
 - [Alias Git Commands](https://githowto.com/aliases)
 - [Base.cs](https://medium.com/basecs) - Weekly articles exploring the very basics of computer science
+- [Visual Representation of SQL Joins](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+- [SQL Joins - 3 Examples](http://www.dofactory.com/sql/join)
 
 ---
 
@@ -99,6 +103,10 @@
 
 - [try.github](https://try.github.io)
 - [Regex101 - Interactive tool](https://regex101.com/)
+- [SQL Basics - Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/p/querying-the-table)
+- [SQL Related Tables - Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/a/splitting-data-into-related-tables)
+- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Fiddle](http://sqlfiddle.com/)
 
 ---
 
@@ -139,6 +147,9 @@
   - [Sinatra](http://www.sinatrarb.com/)
   - [Pry](https://github.com/pry/pry)
   - [Capybara](https://github.com/teamcapybara/capybara)
+  - [Sendgrid](https://github.com/sendgrid/sendgrid-ruby)
+  - [Bcrypt](https://github.com/codahale/bcrypt-ruby)
+  - [Flash Cards demo app](https://github.com/BeejLuig/flash-cards)
   
 ### Other
 
@@ -152,6 +163,9 @@
  - [Atom Linter](https://atom.io/packages/linter)
  - [Agile in a Nutshell](http://www.agilenutshell.com/user_stories)
  - [Agile Uprising](https://coalition.agileuprising.com/)
+ - [Diff Checker](https://www.diffchecker.com/)
+ - [Typing Speed Test](https://www.livechatinc.com/typing-speed-test/#/)
+ 
 ---
 
 ## 6. Weekly Newsletters / Tips / Tricks
@@ -220,6 +234,19 @@ Navigate around the site to find the email signup form.
 - [RSpec Matchers](http://rspec.info/documentation/3.7/rspec-expectations/#Built-in_matchers)
 - [Factory Bot - Custom Construction](https://github.com/thoughtbot/factory_bot/blob/master/GETTING_STARTED.md#custom-construction)
 - [Sinatra Testing with RSpec](http://recipes.sinatrarb.com/p/testing/rspec)
+- [Active Record - Basics](http://guides.rubyonrails.org/active_record_basics.html)
+- [Active Record - CRUD](http://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data)
+- [Ruby on Rails - Association Basics](http://guides.rubyonrails.org/association_basics.html)
+- [Rails Generators Cheat Sheet](http://bshap27.github.io/2015/03/15/Generators-Cheat-Sheet.html)
+- [Active Record - Validations](http://guides.rubyonrails.org/active_record_validations.html)
+- [Rails View Helpers](http://api.rubyonrails.org/v5.1/classes/ActionView/Helpers/FormHelper.html#method-i-form_with)
+- [Rails - ActionView](http://guides.rubyonrails.org/action_view_overview.html)
+- [Rails - has_secure_password method](https://apidock.com/rails/v4.0.2/ActiveModel/SecurePassword/ClassMethods/has_secure_password)
+- [Ruby on Rails - Form Helpers](http://guides.rubyonrails.org/form_helpers.html#nested-forms)
+- [Ruby on Rails - accepts_nested_attributes_for method]( 
+https://apidock.com/rails/v3.2.3/ActiveRecord/NestedAttributes/ClassMethods/accepts_nested_attributes_for)
+- [Ruby on Rails - Nested Attributes](http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html)
+- [Ruby on Rails - Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 
 ### Other
 
